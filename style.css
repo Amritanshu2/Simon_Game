@@ -1,0 +1,67 @@
+.body{
+    background-color: lightblue;
+    text-align: center;
+}
+
+.heading{
+    color: rgb(33, 53, 46);
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+.line-1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cont{
+    position: relative;
+    background-color:rgb(82, 142, 82);
+    width: 20vw;
+    height: 40vh;
+
+}
+
+.line-2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid rgb(58, 58, 135);
+    
+    margin: 2.5rem;
+    
+}
+
+
+.btn:hover{
+    border: 10px solid darkblue;
+}
+.green{
+    background-color: aquamarine;
+}
+
+.red{
+    background-color:lightcoral;
+}
+
+.yellow{
+    background-color:rgb(234, 234, 160);
+}
+
+.purple{
+    background-color: violet;
+}
+.flash{
+    background-color: white;
+}
